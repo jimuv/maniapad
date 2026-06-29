@@ -24,9 +24,9 @@ Others:
 - Top Case.stl 
 - Bottom Case.stl
 
-Schematic            |  PCB         |   Case
-:-------------------------:|:-------------------------:|:-------------------------:|
-![image](placeholder)    |  ![image](placeholder)  | ![image](placeholder)
+Schematic            |  PCB         |   Case Bottom         |   Case Top         |   Case Full
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![image](production/Sch.PNG)    |  ![image](production/pcb.PNG)  | ![image](production/bottom.PNG)  | ![image](production/Top.PNG)  | ![image](placeholder)
 
 
 
